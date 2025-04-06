@@ -17,5 +17,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #pragma once
 
+<<<<<<< HEAD:keyboards/trnthsn/s6xty/config.h
 #define WS2812_SPI_DRIVER SPID2
 #define WS2812_SPI_SCK_PIN B13
+=======
+// #define MASTER_LEFT
+#define MASTER_RIGHT
+
+//#define EE_HANDS
+>>>>>>> e935c70b67 (add all my keyboards and custom configs):keyboards/handwired/dactyl_manuform/5x6/keymaps/default/config.h
