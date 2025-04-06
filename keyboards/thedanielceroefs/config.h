@@ -7,8 +7,8 @@
 
 //#define WS2812_DI_PIN B4
 // key matrix size
-#define MATRIX_ROWS 10
-#define MATRIX_COLS 6
+/* #define MATRIX_ROWS 10
+#define MATRIX_COLS 6 */
 /*
 #define MATRIX_ROW_PINS { D0, D4, C6, D7, E6 }
 #define MATRIX_COL_PINS { F4, F5, F6, F7, B1, B3}
